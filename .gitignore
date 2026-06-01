@@ -35,6 +35,8 @@ yarn-error.log*
 next-env.d.ts
 
 .env
+.claude
+docs
 
 # IDEA Jetbrains
 .idea
