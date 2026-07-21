@@ -1,4 +1,5 @@
-# Headpat.Place - Next.js 15
+# This repo has moved somewhere else!
+https://github.com/HeadpatCloud/headpat-place-web
 
 ## How to contribute
 
